@@ -1,0 +1,65 @@
+2                       BARBITAL
+6                      ESTAZOLAM
+10                    MEPARFYNOL
+14                  CHLORHEXADOL
+26                   VINYL ETHER
+30                   LAMOTRIGINE
+78                     CAMAZEPAM
+94                   CINOLAZEPAM
+105                    TAFAMIDIS
+114                  HALOPERIDOL
+118                  MOCLOBEMIDE
+121                FLUNITRAZEPAM
+125              TRIFLUOPERAZINE
+126                  FLUPENTIXOL
+127                 ESCITALOPRAM
+138                       PHENOL
+152                     CLOBAZAM
+156                   DIFLUNISAL
+162                 LORMETAZEPAM
+176                 CLOMIPRAMINE
+177                    PINAZEPAM
+184                  CARISBAMATE
+187                  DIPYROCETYL
+202                     DIAZEPAM
+209                MECLOFENOXATE
+225                   LOFEXIDINE
+236                   NORDAZEPAM
+251            DEANOL ACEGLUMATE
+258                   FLURAZEPAM
+267                    TOLCAPONE
+270                    SALSALATE
+273                  PENFLURIDOL
+282                AMIFAMPRIDINE
+291                    MIDAZOLAM
+297                    GLAFENINE
+300                   CITALOPRAM
+316                   BROTIZOLAM
+318              LITHIUM CITRATE
+319                    TRIAZOLAM
+323                     ZOLPIDEM
+328                    OPICAPONE
+330                    MEDAZEPAM
+337                    CARBACHOL
+353              TRIFLUPROMAZINE
+364                  BROMPERIDOL
+368                      ASPIRIN
+370                    FELBAMATE
+381             CHLORDIAZEPOXIDE
+386          CARBASPIRIN CALCIUM
+388                    TEMAZEPAM
+402    CLORAZEPATE MONOPOTASSIUM
+404                    MELPERONE
+432                   CENOBAMATE
+433                  PHENACEMIDE
+436              CHLORPROTHIXENE
+449                    ZIMELDINE
+461           CHOLINE SALICYLATE
+465                  MEPIVACAINE
+471                     PROCAINE
+478                  SEVOFLURANE
+481                   ALPRAZOLAM
+488                TRIFLUPERIDOL
+499                  FLUDIAZEPAM
+502               CHLOROPROCAINE
+Name: Name, dtype: object
