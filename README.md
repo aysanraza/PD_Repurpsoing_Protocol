@@ -1,5 +1,4 @@
 # pd_repurposing_protocol
-**D**eep **v**irtual **s**creening system for **lrrk2**
 ## Introduction
 This repository contains the computational biology protocol for machine learning based drug repurposing in the research paper [*Network Based Identification of Holistic Drug Target for Parkinson Disease and Deep Learning Assisted Drug Repurposing*](https://www.biorxiv.org/content/10.1101/2022.11.18.515243v1.full).
 ## Dependencies
