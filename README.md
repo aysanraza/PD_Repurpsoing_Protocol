@@ -11,7 +11,7 @@ This repository contains the computational biology protocol for machine learning
 * 0.1
   * Initial Release
 ## License
-This project is licensed under the  MIT license - see the LICENSE.md file for details
+This project is licensed under the  MIT license - see the [LICENSE.md](https://github.com/aysanraza/pd_repurposing_protocol/edit/main/LICENSE) file for details
 ## Authors
 * Ahsan Raza
   * aysanraza@gmail.com
